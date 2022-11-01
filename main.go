@@ -23,5 +23,5 @@ func main() {
 
 	fmt.Println("Ürün ekleniyor... HATA: ", urunRepo.Create(laptop))
 	fmt.Println("Ürün ekleniyor... HATA: ", urunRepo.Create(telefon))
-
+	//
 }
